@@ -17,6 +17,4 @@ The program implements programming concepts such as:
 - constructors
 - methods and instance variables
 - conditional statements
-- creating and printing an Array of Objects 
-
-
+- creating and printing an Array of Objects
