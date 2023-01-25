@@ -1,6 +1,6 @@
 # smartphone-inventory
 
-This is repository contains a Java program that diplays info about harcoded smartphone and phone inventory to the console. The console prompts to user to perform one of the following: 
+This repository contains a Java program that diplays info about harcoded smartphone and phone inventory to the console. The console prompts to user to perform one of the following: 
 
 1) Enter 'S' to view all stores"
 2) Enter 'SA' to list store(s) with Android phones"
